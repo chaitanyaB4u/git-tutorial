@@ -1,1 +1,2 @@
 this change happened in master branch
+this is 2nd sample text file
